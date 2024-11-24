@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hapsaboi (Hanis Hapsa)
-- 👀 I’m interested in PHP, MySQL, MongoDB, ReactJS, ReactNative, VueJS, NodeJS, ExpressJS, JavaScript, HTML, CSS
-- 🌱 I’m currently learning Flutter...
-- 💞️ I’m looking to collaborate on Mobile, Web Development and AI Projects
+- 👀 I’m interested in NodeJS, ExpressJS, MongoDB JavaScript, Python, PHP, MySQL, ReactJS, ReactNative, VueJS, HTML, CSS
+- 🌱 I’m currently learning working on ML Models...
+- 💞️ I’m looking to collaborate on AI Projects, Mobile and Web Development projects.
 - 📫 How to reach me hapsahanis.hh@gmail.com
 
 <!---
